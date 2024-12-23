@@ -1,0 +1,116 @@
+2024-12-20 19:18:53,Victor,ls /
+2024-12-20 19:22:45,Victor,exit
+2024-12-20 19:22:53,Victor,ls /
+2024-12-20 19:24:38,Victor,ls /
+2024-12-20 19:26:58,Victor,ls /
+2024-12-20 19:28:23,Victor,exit
+2024-12-20 19:29:50,Victor,ls /
+2024-12-20 19:30:35,Victor,cd dir1
+2024-12-20 19:31:07,Victor,ls dir1
+2024-12-20 19:32:16,Victor,echo Hello, world!
+2024-12-20 19:32:34,Victor,wc dir1/text1.txt
+2024-12-20 19:32:44,Victor,exit
+2024-12-20 19:34:26,Victor,ls /
+2024-12-20 19:35:03,Victor,cd dir1
+2024-12-20 19:35:08,Victor,ls dir1
+2024-12-20 19:35:24,Victor,ls /
+2024-12-20 19:36:02,Victor,echo Hello, world!
+2024-12-20 19:37:29,Victor,ls /
+2024-12-20 19:37:39,Victor,cd dir1
+2024-12-20 19:37:45,Victor,ls dir1
+2024-12-20 19:37:53,Victor,cd dir2
+2024-12-20 19:37:57,Victor,ls dir2
+2024-12-20 19:38:08,Victor,exit
+2024-12-20 19:38:46,Victor,ls /
+2024-12-20 19:38:57,Victor,cd dir1
+2024-12-20 19:39:00,Victor,ls dir1
+2024-12-20 19:39:07,Victor,cd dir 2 - не найдена
+2024-12-20 19:39:12,Victor,cd dir2
+2024-12-20 19:39:15,Victor,ls dir2
+2024-12-20 19:39:24,Victor,exit
+2024-12-20 19:40:10,Victor,ls /
+2024-12-20 19:40:33,Victor,cd dir1
+2024-12-20 19:40:36,Victor,ls dir1
+2024-12-20 19:40:44,Victor,cd dir2
+2024-12-20 19:40:50,Victor,ls dir2
+2024-12-20 19:40:57,Victor,exit
+2024-12-20 19:41:43,Victor,ls /
+2024-12-20 19:41:52,Victor,cd dir1
+2024-12-20 19:41:57,Victor,ls dir1
+2024-12-20 19:42:14,Victor,exit
+2024-12-20 19:42:24,Victor,ls /
+2024-12-20 19:42:38,Victor,cd dir1
+2024-12-20 19:42:41,Victor,ls dir1
+2024-12-20 19:42:46,Victor,exit
+2024-12-20 19:43:52,Victor,ls /
+2024-12-20 19:44:14,Victor,cd dir1
+2024-12-20 19:44:18,Victor,ls dir1
+2024-12-20 19:44:31,Victor,exit
+2024-12-20 19:46:01,Victor,ls /
+2024-12-20 19:46:18,Victor,cd dir1
+2024-12-20 19:46:22,Victor,ls dir1
+2024-12-20 19:47:58,Victor,ls /
+2024-12-20 19:48:16,Victor,echo Hello, world!
+2024-12-20 19:48:31,Victor,wc dir1/text1.txt
+2024-12-20 19:49:04,Victor,exit
+2024-12-20 19:52:43,Victor,ls /
+2024-12-20 19:52:59,Victor,cd dir1
+2024-12-20 19:53:06,Victor,ls dir1
+2024-12-20 19:56:58,Victor,ls /
+2024-12-20 19:57:19,Victor,cd dir1
+2024-12-20 19:57:26,Victor,ls dir1
+2024-12-20 19:57:45,Victor,echo Hello,world!
+2024-12-20 20:02:24,Victor,ls /
+2024-12-20 20:03:23,Victor,ls /
+2024-12-20 20:03:33,Victor,cd dir1
+2024-12-20 20:03:38,Victor,ls dir1
+2024-12-20 20:09:01,Victor,ls /
+2024-12-20 20:12:29,Victor,ls /
+2024-12-20 20:15:17,Victor,ls /
+2024-12-20 20:28:01,Victor,echo Hello, world!
+2024-12-20 20:32:13,Victor,cd dir1
+2024-12-20 20:32:24,Victor,ls dir1
+2024-12-20 20:33:01,Victor,echo Hello, wotld!
+2024-12-20 20:39:45,Victor,ls /
+2024-12-20 20:40:01,Victor,cd dir1
+2024-12-20 20:40:05,Victor,ls dir1
+2024-12-20 20:40:15,Victor,cd dir2
+2024-12-20 20:40:19,Victor,ls dir2
+2024-12-20 20:40:43,Victor,echo Hello, world!
+2024-12-20 20:42:18,Victor,cd dir1
+2024-12-20 20:44:21,Victor,ls /
+2024-12-20 20:44:29,Victor,cd dir1
+2024-12-20 20:44:33,Victor,ls dir1
+2024-12-20 20:44:42,Victor,cd dir2
+2024-12-20 20:45:02,Victor,cd dir2
+2024-12-20 20:45:07,Victor,cd dir1
+2024-12-20 20:46:54,Victor,cd dir1
+2024-12-20 20:47:58,Victor,cd dir1
+2024-12-20 20:49:09,Victor,ls /
+2024-12-20 20:49:15,Victor,cd dir1
+2024-12-20 20:49:18,Victor,ls dir1
+2024-12-20 20:49:24,Victor,cd dir2
+2024-12-20 20:49:27,Victor,ls dir2
+2024-12-20 20:49:43,Victor,echo Helll><>
+2024-12-20 20:56:03,Victor,ls /
+2024-12-20 20:56:18,Victor,cd dir1
+2024-12-20 20:56:22,Victor,ls dir1
+2024-12-20 20:56:28,Victor,cd dir2
+2024-12-20 20:56:32,Victor,ls dir2
+2024-12-20 20:57:11,Victor,echo gdhgdj.dgf
+2024-12-20 20:58:25,Victor,wc dir1/text1.txt
+2024-12-20 21:00:11,Victor,cd dir1
+2024-12-20 21:00:15,Victor,ls dir1
+2024-12-20 21:00:25,Victor,wc dir1/text1.txt
+2024-12-20 21:02:15,Victor,wc dir2/text3 (файл не найден)
+2024-12-20 21:02:24,Victor,wc dir2/text3.txt
+2024-12-20 21:08:43,Victor,help
+2024-12-20 21:09:06,Victor,ls /
+2024-12-20 21:09:28,Victor,cd dir1
+2024-12-20 21:09:31,Victor,ls dir1
+2024-12-20 21:09:37,Victor,cd dir2
+2024-12-20 21:09:40,Victor,ls dir2
+2024-12-20 21:09:51,Victor,echo vfrdtvrd.,rg,sbgrt
+2024-12-20 21:10:15,Victor,wc dir1/text1.txt
+2024-12-20 21:10:23,Victor,help
+2024-12-21 09:52:41,Victor,help
